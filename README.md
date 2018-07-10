@@ -1,5 +1,11 @@
 # Via Grid Calculator
 
+## 2x2
+![Alt Text](https://github.com/coffeenmusic/Via_Grid_Coordinate_Calculator/blob/master/2x2.gif)
+
+## 3x3
+![Alt Text](https://github.com/coffeenmusic/Via_Grid_Coordinate_Calculator/blob/master/3x3.gif)
+
 ### ViaGrid.ipynb
 Calculate a grid of via positions given a center x,y pair and the col/row dimension (number of grid points)
 
